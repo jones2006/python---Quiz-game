@@ -2,7 +2,7 @@ print("Welcome to a Quiz game")
 playgame = input("Are you play a game ?")
 
 if playgame.lower() != "yes":
-    print("Okay :( ")
+    print("Okay,Exit a game :( ")
     quit()
 
 print("Okay,start a game :) ")
